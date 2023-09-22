@@ -37,6 +37,7 @@ To assemble the components of the computer.
 11.Install motherboard power connections:The Advanced Technology Extended (ATX) Main Power Connector Will Have Either 20 Or 24 Pins.
 ![image](https://github.com/poojaanbu0/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119390329/ff2e32b7-a9fe-4a4e-a631-075da7598134)
 
+
 12.Push the power button to start the computer.
 ![image](https://github.com/poojaanbu0/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119390329/77a379fb-c060-408a-944a-66e87ea558c6)
 
